@@ -18,8 +18,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 Je suis Mohamed Hamza Limem étudiant en informatique à (ESPRIT) en Tunisie 💻, j’ai 23 ans et je suis complètement passionné par le développement cloud, j’adore écouter de la musique électro, faire la fête, regarder des séries et les partager avec mes amis.
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AzizBenIsmail&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center" >
 
