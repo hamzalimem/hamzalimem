@@ -18,11 +18,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 I'm Mohamed Hamza Limem a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 23 years old and am completely passionate about cloud development , I love listening to electro music , partying, watching series and sharing it with my friends.
 
-<!-- Let's Connect..! -->
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzizBenIsmail&&theme=algolia" alt="AzizBenIsmail" /></p>
-
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AzizBenIsmail&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center" >
@@ -39,9 +34,8 @@ I'm Mohamed Hamza Limem a Computer science student at (ESPRIT) in Tunisia 💻 ,
 
 Credit: [Hamza Limem](https://github.com/hamzalimem)
 
-Last Edited on: 03/08/2023
+Last Edited on: 28/05/2023
 <details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
   <samp>
       <br/>
