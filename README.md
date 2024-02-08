@@ -16,7 +16,7 @@
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-I'm Mohamed Hamza Limem a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 23 years old and am completely passionate about cloud development , I love listening to electro music , partying, watching series and sharing it with my friends.
+I'm Mohamed Hamza Limem a Computer science student at (ESPRIT) in Tunisia 💻 , I'm 23 years old and am completely passionate about data analysing , I love listening to electro music , partying, watching series and sharing it with my friends.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
