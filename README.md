@@ -1,12 +1,12 @@
 
 <h1 align="center"><b>Hi , I'm Mohamed Hamza Limem </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Hamza+Limem..&hearts;++;Self-taught+JavaScript-Developer,;Cloud-Starter,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Hamza+Limem..&hearts;++;Self-taught+JavaScript-Developer,r,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <!--
 <p align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Mohamed+Hamza+Limem!;Computer+Science+Student;Cloud+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/hamzalimem) 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0099DD&size=30&lines=Hey!+It's+Mohamed+Hamza+Limem!;Computer+Science+Student;Data_Analyst;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things)](https://github.com/hamzalimem) 
 
   </p> -->
 
